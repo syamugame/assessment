@@ -1,23 +1,17 @@
 body {
-    background-color: #04A6EB;
-    color: #FDFFFF;
-    width:500px;
-    margin-right: auto;
-    margin-left: auto;
+  background-color: #04a6eb;
+  color: #fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
-button {
-    padding: 5px 20px;
-    background-color: #337AB7;
-    border-color: #2E6DA4;
-    border-style: none;
-    color: #FDFFFF;
+button{
+  padding: 5px 20px;
+  color: #fdffff;
+  background-color: #0041bb;
+  border-style: none;
 }
-
 input{
-    height: 20px;
-}
-
-#tweet-area{
-    margin-top: 20px;
+  height: 20px;
 }
